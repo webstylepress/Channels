@@ -1,4 +1,4 @@
-# Channels / Sites / Links  
+# Channels / Bookmarks
 
 @webstylepress   
 Category: Web Development  
