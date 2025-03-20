@@ -1,13 +1,13 @@
 # Channels / Sites / Links  
 
-@webstylepress 
+@webstylepress   
 Category: Web Development  
 https://www.youtube.com/@webstylepress  
 Videos: https://www.youtube.com/@webstylepress/videos  
 Playlists: https://www.youtube.com/@webstylepress/playlists  
 
-@aPrincessPlays 
-Category: Gaming  
+@aPrincessPlays  
+Category: Gaming   
 https://www.youtube.com/@aPrincessPlays  
 Videos: https://www.youtube.com/@aPrincessPlays/videos  
 Playlists: https://www.youtube.com/@aPrincessPlays/playlists  
@@ -18,7 +18,7 @@ https://www.youtube.com/@MJKHPlays
 Videos: https://www.youtube.com/@MJKHPlays/videos  
 Playlists: https://www.youtube.com/@MJKHPlays/playlists  
 
-@AbidaFoodSecrets 
+@AbidaFoodSecrets  
 Category: Cooking  
 https://www.youtube.com/@AbidaFoodSecrets  
 Videos: https://www.youtube.com/@AbidaFoodSecrets/videos  
